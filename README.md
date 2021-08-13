@@ -1,1 +1,1 @@
-# linear-algebra-notes-in-python
+# summery of linear algebra
